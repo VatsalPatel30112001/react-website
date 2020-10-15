@@ -1,0 +1,80 @@
+/* * {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(126, 241, 18);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#card {
+  border-radius: 20px;
+  width: 33vw;
+  height: 43vh;
+  background-color: whitesmoke;
+}
+h1 {
+  margin-top: 100px;
+  text-align: center;
+  display: block;
+  color: white;
+  font-size: 40px;
+  background-color: rebeccapurple;
+} */
+
+/* .Buttonhover {
+  font-size: 20px;
+  height: 40px;
+  width: 100px;
+  margin-top: 40px;
+  margin-left: 16px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  background-color: rebeccapurple;
+  color: white;
+}
+
+.Buttonhover:hover {
+  background-color: rgb(75, 200, 241);
+} */
+
+
+
+/* .Buttonhover{
+    background-color: lightblue;
+} */
+
+
+/* .link{
+  color: red;
+  border-bottom: 1px solid red;
+} */
+
+/* 
+  a:active{
+    color: red;
+  }
+a:hover{
+  color: red;
+}
+
+
+*/
+.linked{
+  color: red;
+} 
+a{
+  padding: 10px;
+  text-decoration: none;
+}
+
+#div{
+  background-color: white;
+  width: 100%;
+  height: 40px;
+  font-size: 30px;
+}

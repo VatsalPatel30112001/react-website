@@ -1,0 +1,37 @@
+*{
+    font-weight: bolder;
+}
+
+.creatediv {
+  height: 30vh;
+  background-color: yellow;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  /* color: white; */
+}
+input,textarea {
+
+  /* color: white; */
+  /* background-color: greenyellow; */
+  /* height: 25px; */
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+  /* width: 30vw; */
+}
+
+button {
+    border: none;
+    outline: none;
+  margin-top: 1rem;
+  height: 40px;
+  width: 40px;
+  font-size: 30px;
+  background-color: greenyellow;
+}
+button:hover{
+    background-color: green;
+}
