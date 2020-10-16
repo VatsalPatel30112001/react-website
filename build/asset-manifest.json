@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.1fd9f574.chunk.css",
+    "main.js": "/react-website/static/js/main.d4e890c5.chunk.js",
+    "main.js.map": "/react-website/static/js/main.d4e890c5.chunk.js.map",
+    "runtime-main.js": "/react-website/static/js/runtime-main.d50b4001.js",
+    "runtime-main.js.map": "/react-website/static/js/runtime-main.d50b4001.js.map",
+    "static/js/2.ad067e2c.chunk.js": "/react-website/static/js/2.ad067e2c.chunk.js",
+    "static/js/2.ad067e2c.chunk.js.map": "/react-website/static/js/2.ad067e2c.chunk.js.map",
+    "index.html": "/react-website/index.html",
+    "precache-manifest.7f9d5ef43b564b8ac62099effbeabf19.js": "/react-website/precache-manifest.7f9d5ef43b564b8ac62099effbeabf19.js",
+    "service-worker.js": "/react-website/service-worker.js",
+    "static/css/main.1fd9f574.chunk.css.map": "/react-website/static/css/main.1fd9f574.chunk.css.map",
+    "static/js/2.ad067e2c.chunk.js.LICENSE.txt": "/react-website/static/js/2.ad067e2c.chunk.js.LICENSE.txt",
+    "static/media/cartoon.jpg": "/react-website/static/media/cartoon.12f0994d.jpg",
+    "static/media/lion.jpg": "/react-website/static/media/lion.ba3c59fb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d50b4001.js",
+    "static/js/2.ad067e2c.chunk.js",
+    "static/css/main.1fd9f574.chunk.css",
+    "static/js/main.d4e890c5.chunk.js"
+  ]
+}
